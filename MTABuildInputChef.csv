@@ -1,0 +1,2 @@
+vCenter, Cluster, Template, Name, Disksize, Network, CPUs, MemGB, IPAddress, Netmask, Gateway, FirstDNS, SecondDNS, DomainName, Folder, ResourcePool, Description,Lead Developer
+xtinvc01.xt.local,INC3A,_ET_Ubuntu-10.04.3-x64-Base-r2.5,xtinmta4194,180,dv-VM Network,4,4,192.168.121.137,255.255.252.0,,,,xt.local,Spares - Ubuntu,INC3aProd,Spare,Meadows
